@@ -1,4 +1,4 @@
-POTD task2: Leetcode_1512
+POTD task1: Leetcode_1512
 
 class Solution {
 public:
