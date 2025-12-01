@@ -1,4 +1,4 @@
-POTD task1: Codeforces_546A
+POTD task2: Codeforces_546A
 
 #include <bits/stdc++.h>
 using namespace std;
